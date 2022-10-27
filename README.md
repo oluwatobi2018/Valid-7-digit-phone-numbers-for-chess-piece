@@ -8,7 +8,7 @@ The phone number should not contain special characters.
 
 The length of the phone number should be a value by input.
 
-Seven digits un length
+Seven digits in length
 
 cannot contain a* or #
 

@@ -8,6 +8,12 @@ The phone number should not contain special characters.
 
 The length of the phone number should be a value by input.
 
+Seven digits un length
+
+cannot contain a* or #
+
+cannot start with a0 or 1
+
 ## Algorithm
 
 I use factory pattern to create two movement methods. The main idea is to create a path denoting all the possible next digits of a certain digit. Recursive method is used, which will not handle big test cases. DP or Cache method should be used. Bishop movement is complex and difficult to combine four direction cases into one function.  
